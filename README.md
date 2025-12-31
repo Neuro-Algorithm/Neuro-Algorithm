@@ -7,7 +7,7 @@ I use **Python** to run experiments, build tools, and investigate how **memory s
 
 ## 🔹 What I Do
 - Explore connections between memory and behavior 
-- Constantly read *research papers to fuel my curiosity  
+- Constantly read research papers to fuel my curiosity  
 - Build neural-inspired experiments in Python  
 - Learn boldly about cognition + code
 - Grow as a *researcher** and **algorithmic thinker**  
