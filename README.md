@@ -6,12 +6,11 @@ I use **Python** to run experiments, build tools, and investigate how **memory s
 ---
 
 ## 🔹 What I Do
-- Explore connections between memory and behavior 
+- Exploring the connections between memory and behavior 
 - Constantly read research papers to fuel my curiosity  
-- Build neural-inspired experiments in Python  
-- Learn boldly about cognition + code
-- Grow as a *researcher** and **algorithmic thinker**  
-
+- Building neural-inspired experiments in Python  
+- Learning boldly about cognition + code
+  
 ---
 
 ## 🔹 Current Projects
