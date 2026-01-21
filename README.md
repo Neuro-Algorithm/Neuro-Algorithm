@@ -13,28 +13,27 @@ When I'm not debugging Python or reading papers at 2am, I'm probably thinking ab
 ## Technical Skills
 
 **Languages**: Python, R, SQL  
-**ML/Data Science**: scikit-learn, TensorFlow, PyTorch, pandas, NumPy  
+**ML/Data Science**: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy  
 **Computer Vision**: DeepLabCut, OpenCV  
 **Tools**: Git, Jupyter
 
 ## Selected Projects
 
-### 🧠 Alzheimer's Disease Prediction
+###  Alzheimer's Disease Prediction
 Built a machine learning pipeline to predict early-stage Alzheimer's from clinical data. Tackled the hard parts: class imbalance, missing values, and making models that actually generalize. Because healthcare ML should work in the real world, not just on clean datasets.  
 **Stack**: Python, scikit-learn, pandas
 
-### 🐭 Automated Mouse Behavior Analysis
+### Mouse Behavior Analysis
 Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.  
-**Stack**: Python, DeepLabCut, OpenCV
+**Stack**: Python, DeepLabCut
 
-### 🔬 Memory-Learning Simulations
+###  Memory-Learning Simulations
 Created computational experiments where artificial agents learn tasks while their "memory" gets tweaked. Exploring questions like: Does forgetting help learning? How does memory capacity change behavior?  
 **Stack**: Python, NumPy, Matplotlib
 
 ## Current Focus
 
 Right now I'm:
-- Diving deeper into statistical modeling and Bayesian inference (because uncertainty is underrated)
 - Reading everything I can about computational psychiatry and cognitive neuroscience
 - Preparing applications for graduate programs where I can do this full-time
 
@@ -48,4 +47,4 @@ I love talking about neuroscience, ML, weird research ideas, or anything brain-a
 
 📫 Reach me on GitHub or email: deborahakujobi62@gmail.com
 
-💡 **Fun fact**: I debug code best with Afrobeats in the background—something about the rhythm helps neural networks click
+ **Fun fact**: I debug code best with Afrobeats in the background—something about the rhythm helps neural networks click
