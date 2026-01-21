@@ -1,22 +1,51 @@
-# Hi there 👋
+# Neuro Algorithm
 
-I’m **Neuro Algorithm**, a curious explorer of the space where **brains, behavior, and computation collide**.  
-I use **Python** to run experiments, build tools, and investigate how **memory shapes the way systems — biological or digital — behave**.   
+Hi! I'm a computational researcher who is learning about the messy intersection of neuroscience, behavior, and machine learning. I build data-driven experiments to understand how memory and cognition shape the way we (and machines) learn and make decisions.
+
+When I'm not debugging Python or reading papers at 2am, I'm probably thinking about how brains encode the world—and how we can capture that in code.
+
+## Research Interests
+
+- **Computational Neuroscience**: How do memory systems actually work? What makes learning click?
+- **Machine Learning in Healthcare**: Building models that predict disease and help real people
+- **Computer Vision**: Teaching computers to watch behavior and understand what they're seeing
+
+## Technical Skills
+
+**Languages**: Python, R, SQL  
+**ML/Data Science**: scikit-learn, TensorFlow, PyTorch, pandas, NumPy  
+**Computer Vision**: DeepLabCut, OpenCV  
+**Tools**: Git, Jupyter
+
+## Selected Projects
+
+### 🧠 Alzheimer's Disease Prediction
+Built a machine learning pipeline to predict early-stage Alzheimer's from clinical data. Tackled the hard parts: class imbalance, missing values, and making models that actually generalize. Because healthcare ML should work in the real world, not just on clean datasets.  
+**Stack**: Python, scikit-learn, pandas
+
+### 🐭 Automated Mouse Behavior Analysis
+Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.  
+**Stack**: Python, DeepLabCut, OpenCV
+
+### 🔬 Memory-Learning Simulations
+Created computational experiments where artificial agents learn tasks while their "memory" gets tweaked. Exploring questions like: Does forgetting help learning? How does memory capacity change behavior?  
+**Stack**: Python, NumPy, Matplotlib
+
+## Current Focus
+
+Right now I'm:
+- Diving deeper into statistical modeling and Bayesian inference (because uncertainty is underrated)
+- Reading everything I can about computational psychiatry and cognitive neuroscience
+- Preparing applications for graduate programs where I can do this full-time
+
+## Let's Connect
+
+I love talking about neuroscience, ML, weird research ideas, or anything brain-adjacent. Open to collaborations, code reviews, paper recommendations, or just nerding out about science.
+
+
 
 ---
 
-## 🔹 What I Do
-- Exploring the connections between memory and behavior 
-- Constantly read research papers to fuel my curiosity  
-- Building neural-inspired experiments in Python  
-- Learning boldly about cognition + code
-  
----
+📫 Reach me on GitHub or email: deborahakujobi62@gmail.com
 
-## 🔹 Current Projects
-Here’s what I’m currently tinkering with:
-- **Alzheimer Prediction ML Project** – Using Machine Learning and proper preprocessing to predict Alzheimer’s based on clinical data  
-- **Mouse Behavior Analysis** – Reimplemented behavior analysis using DeepLabCut and computer vision  
-- **Other neural-inspired experiments** – Exploring how memory affects learning and decision-making in Python simulations  
-
-*(More projects coming soon as I explore the intersection of brains, code, and behavior!*
+💡 **Fun fact**: I debug code best with Afrobeats in the background—something about the rhythm helps neural networks click
