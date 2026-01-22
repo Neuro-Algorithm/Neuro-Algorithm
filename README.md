@@ -13,7 +13,7 @@ When I'm not debugging Python or reading papers at 2am, I'm probably thinking ab
 ## Technical Skills
 
 **Languages**: Python, SQL  
-**ML/Data Science**: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy  
+**ML/Data Science**: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib 
 **Computer Vision**: DeepLabCut, OpenCV  
 **Tools**: Git, Jupyter
 
