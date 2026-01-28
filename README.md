@@ -26,7 +26,7 @@ Built a machine learning pipeline to predict early-stage Alzheimer's from clinic
 
 ### Mouse Behavior Analysis
 Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.  
-**Stack**: Python, DeepLabCut
+**Stack**: Python, DeepLabCut, Matplotlib
 
 ###  Memory-Learning Simulations
 Created computational experiments where artificial agents learn tasks while their "memory" gets tweaked. Exploring questions like: Does forgetting help learning? How does memory capacity change behavior?  
