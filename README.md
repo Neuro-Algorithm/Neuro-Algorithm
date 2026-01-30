@@ -1,6 +1,6 @@
 # 
 
-Hi! I'm learning about the messy intersection of neuroscience, behavior, and machine learning. I build data-driven experiments to understand how memory and cognition shape the way we (and machines) learn and make decisions.
+Hi! My name is Deborah Akujobi I'm learning about the messy intersection of neuroscience, behavior, and machine learning. I build data-driven experiments to understand how memory and cognition shape the way we (and machines) learn and make decisions.
 
 When I'm not debugging Python or reading papers at 2am, I'm probably thinking about how brains encode the world—and how we can capture that in code.
 
