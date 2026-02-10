@@ -21,11 +21,13 @@ When I'm not debugging Python or reading papers at 2am, I'm probably thinking ab
 ## Selected Projects
 
 ###  Alzheimer's Disease Prediction
-Built a machine learning pipeline to predict early-stage Alzheimer's from clinical data. Tackled the hard parts: class imbalance, missing values, and making models that actually generalize. Because healthcare ML should work in the real world, not just on clean datasets.  
+Built a machine learning pipeline to predict early-stage Alzheimer's from clinical data. Tackled the hard parts: class imbalance, missing values, and making models that actually generalize. Because healthcare ML should work in the real world, not just on clean datasets.
+
 **Stack**: Python, scikit-learn, pandas
 
 ### Mouse Behavior Analysis
-Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.  
+Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.
+
 **Stack**: Python, DeepLabCut, Matplotlib, OpenCV
 
 ### Multi-Animal Pose Estimation for Wistar Rats*
