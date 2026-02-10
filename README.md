@@ -28,8 +28,9 @@ Built a machine learning pipeline to predict early-stage Alzheimer's from clinic
 Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.  
 **Stack**: Python, DeepLabCut, Matplotlib, OpenCV
 
-### Multi-Animal Pose Estimation for Wistar Rats** 
+### Multi-Animal Pose Estimation for Wistar Rats*
 Developed a DeepLabCut-based computer vision pipeline for simultaneous detection, tracking, and 25-point pose estimation of multiple laboratory rats, achieving 98.7% identity accuracy for automated behavioral quantification in neuroscience research.
+
 **Stack**: Python, NumPy, Matplotlib, Deeplabcut, OpenCV
 
 ## Current Focus
