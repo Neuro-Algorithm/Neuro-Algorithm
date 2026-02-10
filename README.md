@@ -26,11 +26,11 @@ Built a machine learning pipeline to predict early-stage Alzheimer's from clinic
 
 ### Mouse Behavior Analysis
 Reimplemented pose estimation to track mouse behavior frame-by-frame using DeepLabCut. Analyzed movement patterns to understand decision-making. Turns out mice are fascinating when you can quantify what they're doing.  
-**Stack**: Python, DeepLabCut, Matplotlib
+**Stack**: Python, DeepLabCut, Matplotlib, OpenCV
 
-###  Memory-Learning Simulations
-Created computational experiments where artificial agents learn tasks while their "memory" gets tweaked. Exploring questions like: Does forgetting help learning? How does memory capacity change behavior?  
-**Stack**: Python, NumPy, Matplotlib
+### Multi-Animal Pose Estimation for Wistar Rats** 
+Developed a DeepLabCut-based computer vision pipeline for simultaneous detection, tracking, and 25-point pose estimation of multiple laboratory rats, achieving 98.7% identity accuracy for automated behavioral quantification in neuroscience research.
+**Stack**: Python, NumPy, Matplotlib, Deeplabcut, OpenCV
 
 ## Current Focus
 
@@ -40,7 +40,7 @@ Right now I'm:
 
 ## Let's Connect
 
-I love talking about neuroscience, ML, weird research ideas, or anything brain-adjacent. Open to collaborations, code reviews, paper recommendations, or just nerding out about science.
+I love talking about neuroscience, ML, weird research ideas, or anything health adjacent. Open to collaborations, code reviews, paper recommendations, or just nerding out about science or grad school.
 
 
 
@@ -48,4 +48,4 @@ I love talking about neuroscience, ML, weird research ideas, or anything brain-a
 
 📫 Reach me on GitHub or email: deborahakujobi62@gmail.com
 
- **Fun fact**: I debug code best with Afrobeats in the background—something about the rhythm helps neural networks click
+ **Fun fact**: I debug code best with Afrobeats in the background, something about the rhythm helps neural networks click
